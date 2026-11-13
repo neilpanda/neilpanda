@@ -22,10 +22,10 @@ Focused on computational physics, signal processing in high-background environme
 
 #### Technical Stack
 
-* **Languages:** Python, C, C++, MATLAB, LaTeX
+* **Languages:** Python, C, C++, LaTeX
 * **Data & Scientific Libraries:** NumPy, SciPy, Pandas, Matplotlib, h5py
 * **Hardware & Engineering:** Embedded Microcontrollers, 868MHz RF Mesh Networking, mmWave Radar Sensors, Fusion 360 CAD
-* **Workflow:** Git, Linux, Modular Package Design
+* **Workflow:** Git, Modular Package Design
 
 ---
 
