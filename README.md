@@ -22,4 +22,4 @@ Focused on computational physics, signal processing in high-background environme
 ---
 
 #### Connect
-[LinkedIn](https://www.linkedin.com/in/kshitij-pandit-94a27a300/) • [Email](kshitij.pandit24@imperial.ac.uk)
+[LinkedIn](https://www.linkedin.com/in/kshitij-pandit-94a27a300/) • [Imperial Email](kshitij.pandit24@imperial.ac.uk) • [Personal Email](kshitijneilpandit@gmail.com)
