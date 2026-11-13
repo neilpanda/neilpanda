@@ -1,5 +1,10 @@
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flate&logo=cplusplus&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
+
 ### Kshitij (Neil) Pandit
-**MSci Physics with Theoretical Physics** | Imperial College London *(First-Class Standing)*
+**MSci Physics** | Imperial College London *(First-Class Standing)*
 
 Focused on computational physics, signal processing in high-background environments, statistical inference, and low-level hardware/RF systems.
 
@@ -11,7 +16,7 @@ Focused on computational physics, signal processing in high-background environme
 
 <img src="assets/GW150914_Final_Results.png" alt="Fully processed open-source data of the event, with the Newtonian chirp fitted on" width="600" />
 
-* **[Custom Route Planner](https://github.com/neilpanda/route-planner)** - [UNFINISHED] Compares different modes of transport (via APIs) to recommend routes dependent on daily conditions. It also optimises hybrid routes for multiple modes of transport to save costs or time.
+* **[Custom Route Planner](https://github.com/neilpanda/route-planner)** - [WIP] Compares different modes of transport (via APIs) to recommend routes dependent on daily conditions. It also optimises hybrid routes for multiple modes of transport to save costs or time.
 
 ---
 
